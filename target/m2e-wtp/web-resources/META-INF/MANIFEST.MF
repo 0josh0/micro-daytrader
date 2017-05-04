@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-Title: daytrader
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor-Id: microservices
+Build-Jdk: 1.7.0_07
+Built-By: Summer
+Created-By: Maven Integration for Eclipse
+Implementation-URL: http://projects.spring.io/spring-boot/microservice
+ s/
+Main-Class: org.iscas.Application
+

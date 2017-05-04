@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="holding:war">
+    <output-path>$PROJECT_DIR$/holding/target</output-path>
+    <root id="archive" name="holding-1.0.war">
+      <element id="artifact" artifact-name="holding:war exploded" />
+    </root>
+  </artifact>
+</component>
