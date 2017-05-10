@@ -12,7 +12,7 @@
 
     <groupId>microservices</groupId>
     <artifactId>microservices</artifactId>
-    <packaging>war</packaging>
+    <packaging>pom</packaging>
     <name>daytrader</name>
     <description>DayTrade microservices version</description>
     <version>1.0-SNAPSHOT</version>
