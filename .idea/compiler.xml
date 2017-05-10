@@ -24,7 +24,6 @@
         <processorPath useClasspath="true" />
         <module name="account" />
         <module name="holding" />
-        <module name="microservices" />
         <module name="order" />
         <module name="quote" />
         <module name="trade" />

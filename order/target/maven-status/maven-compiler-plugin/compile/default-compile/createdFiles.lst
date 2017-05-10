@@ -1,0 +1,15 @@
+org\iscas\entity\AccountProfile.class
+org\iscas\repository\AccountRepository.class
+org\iscas\service\OrdersService.class
+org\iscas\repository\OrdersRepository.class
+org\iscas\repository\HoldingRepository.class
+org\iscas\entity\Quote.class
+org\iscas\repository\AccountProfileRepository.class
+org\iscas\repository\QuoteRepository.class
+org\iscas\entity\Account.class
+org\iscas\entity\Holding.class
+org\iscas\service\OrdersRest.class
+org\iscas\util\Log.class
+org\iscas\Startup.class
+org\iscas\entity\Orders.class
+org\iscas\repository\BaseRepository.class
